@@ -1,0 +1,30 @@
+h1 ,h2 ,p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+}
+
+button {
+    margin: auto;
+    display: table;
+    border: none;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: tomato;
+}
+
+body{
+    text-align: center;
+    background-size: cover;
+    font-weight: lighter;
+    width: 280px;
+}
+
+div{
+    border: 2px rebeccapurple solid;
+    height: 400px;
+}
